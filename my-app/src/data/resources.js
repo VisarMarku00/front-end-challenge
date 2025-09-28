@@ -1,17 +1,17 @@
 const resources = [
   {
     id: 1,
-    title: "Intro to Web Security",
-    description: "Learn basics of web security.",
-    category: "Web Security",
-    link: "https://example.com/web-security"
+    title: "The Cuckoo's Egg",
+    description: "Book on tracking a hacker.",
+    category: "Book",
+    link: "https://books.google.mk/books/about/The_Cuckoo_s_Egg.html?id=b4UMEQAAQBAJ&source=kp_cover&redir_esc=y"
   },
   {
     id: 2,
-    title: "Networking Fundamentals",
-    description: "Understand network layers and protocols.",
-    category: "Networking",
-    link: "https://example.com/networking"
+    title: "Introduction to Cybersecurity",
+    description: "Explore the exciting field of cybersecurity",
+    category: "Course",
+    link: "https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US"
   }
 ];
 

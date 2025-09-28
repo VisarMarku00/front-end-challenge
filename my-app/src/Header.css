@@ -1,0 +1,30 @@
+.header {
+  background-color: #e8e6c6;
+  margin: 1rem 1rem 2rem 1rem;
+  padding: 30px 25px;
+  color: rgb(21, 19, 19);
+  font-weight: 600;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 2rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark .header {
+  background-color: #2a2828;
+  color: #fdfdfd;
+}
+
+.dark-mode-toggle {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.dark-mode-toggle:hover {
+  transform: scale(1.2);
+}
